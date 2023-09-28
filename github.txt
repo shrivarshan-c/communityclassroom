@@ -1,0 +1,23 @@
+ git restore --staged names.txt
+touch  (to add new file or text to the particular folder)
+vi (text editor)
+git staus
+git add 
+git commit -m "message "  (to message the commit done for the particular text)
+git log (to show the history of the file from time ,date etc)
+
+
+git log --- to show the history of the project
+
+ git reset c02d490c81a36c2f3149037d0c0709fc8baf0e8f -- to delete the history of the projects or commmits
+ 
+
+git stash   (used to store in bbackend)
+cat to show the messages in the file
+
+git stash pop (command used to show up the backend )
+git stash clear(used to delete the backend files)
+
+
+git remote add origin (followed by the link)
+git remote -v
